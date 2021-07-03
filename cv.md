@@ -1,10 +1,9 @@
-#__Junior frontend developer__
+# __Junior frontend developer__
 ---
-##_Name_  Yakovleva Viktoria 
+## _Name_  Yakovleva Viktoria 
 ---
-##_Contacts:_
+## _Contacts:_
 
-. **Contact:**
 | Сommunication method           | Way                           |
 | -----------------------------: |:----------------------------- |
 | __email__                      | viktoria.ganina@yandex.ru     |
@@ -12,19 +11,19 @@
 | __discord__                    | Vakulina#6711                 |
 | __rs-scool chanel in discord__ | Viktoria Yakovleva(@Vakulina) | 
 ---
-##_Summary information_
--I have work experience in the banking sector.
--I have a fundamental higher education in the field of education.
--Now am studying frontend development in order to change the field of professional activity.
--I like to learn new things about web development.
+## _Summary information_
+- I have work experience in the banking sector.
+- I have a fundamental higher education in the field of education.
+- Now am studying frontend development in order to change the field of professional activity.
+- I like to learn new things about web development.
 ---
-##_Skills_
--HTML - bacics
--CSS  - bacics
--GIT  - bacics
--JavaScript - start learning
+## _Skills_
+- HTML - bacics
+- CSS  - bacics
+- GIT  - bacics
+- JavaScript - start learning
 ---
-##_Code example_
+## _Code example_
 ```.two-columns {
     display: flex;
     justify-content: space-between;
@@ -33,10 +32,10 @@
   }
 ```
 ---
-#_Education_
+## _Education_
 Southern Federal University 2007-2013,
 department of "Applied Informatics in Economic sistems"
 ---
-#_Languages_
-__English__pre-intermediate
+## _Languages_
+__English:__ pre-intermediate
 
