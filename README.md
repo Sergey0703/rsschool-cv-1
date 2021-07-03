@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Vakulina.github.io/rsschool-cv/cv
