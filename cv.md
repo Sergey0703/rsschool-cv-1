@@ -1,6 +1,6 @@
 # __Junior frontend developer__
 ---
-## _Name_  Yakovleva Viktoria 
+## _Name:_  Yakovleva Viktoria 
 ---
 ## _Contacts:_
 
@@ -17,25 +17,26 @@
 - Now am studying frontend development in order to change the field of professional activity.
 - I like to learn new things about web development.
 ---
-## _Skills_
-- HTML - bacics
-- CSS  - bacics
-- GIT  - bacics
-- JavaScript - start learning
+## _Skills:_
+- __HTML__ - bacics
+- __CSS__  - bacics
+- __GIT__  - bacics
+- __JavaScript__ - start learning
 ---
-## _Code example_
-```.two-columns {
+## _Code example:_
+```CSS
+.two-columns {
     display: flex;
     justify-content: space-between;
-
     width: 80%;
   }
 ```
 ---
 ## _Education_
-Southern Federal University 2007-2013,
-department of "Applied Informatics in Economic sistems"
 ---
+Southern Federal University 2007-2013,  
+department of "Applied Informatics in Economic sistems"
+
 ## _Languages_
 __English:__ pre-intermediate
 
