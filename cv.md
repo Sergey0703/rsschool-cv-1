@@ -2,26 +2,26 @@
 ---
 ## _Name:_  Yakovleva Viktoria 
 ---
-## _Contacts:_
+## _Contacts:_  
 
-| Сommunication method           | Way                           |
-| -----------------------------: |:----------------------------- |
-| __email__                      | viktoria.ganina@yandex.ru     |
-| __telegram__                   | @Vakulina_tag                 |
-| __discord__                    | Vakulina#6711                 |
-| __rs-scool chanel in discord__ | Viktoria Yakovleva(@Vakulina) | 
+| Сommunication method           | Way                           |  
+| -----------------------------: |:----------------------------- |  
+| __email__                      | viktoria.ganina@yandex.ru     |  
+| __telegram__                   | @Vakulina_tag                 |  
+| __discord__                    | Vakulina#6711                 |  
+| __rs-scool chanel in discord__ | Viktoria Yakovleva(@Vakulina) |   
 ---
-## _Summary information_
-- I have work experience in the banking sector.
-- I have a fundamental higher education in the field of education.
-- Now am studying frontend development in order to change the field of professional activity.
-- I like to learn new things about web development.
+## _Summary information_  
+- I have work experience in the banking sector.  
+- I have a fundamental higher education in the field of education.   
+- Now am studying frontend development in order to change the field of professional activity.  
+- I like to learn new things about web development.  
 ---
 ## _Skills:_
-- __HTML__ - bacics
-- __CSS__  - bacics
-- __GIT__  - bacics
-- __JavaScript__ - start learning
+- __HTML__ - bacics  
+- __CSS__  - bacics  
+- __GIT__  - bacics  
+- __JavaScript__ - start learning  
 ---
 ## _Code example:_
 ```CSS
