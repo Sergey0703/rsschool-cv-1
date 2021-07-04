@@ -3,12 +3,12 @@
 ## _Name:_  Yakovleva Viktoria 
 ---
 ## _Contacts:_  
- Сommunication method |Way
----------------------:|:--------:
-__email__| viktoria.ganina@yandex.ru
-__telegram__| @Vakulina_tag 
-__discord__| Vakulina#6711
-__rs-scool chanel in discord__| Viktoria Yakovleva(@Vakulina)
+ Сommunication method |Way  
+---------------------:|:--------:  
+__email__| viktoria.ganina@yandex.ru  
+__telegram__| @Vakulina_tag  
+__discord__| Vakulina#6711  
+__rs-scool chanel in discord__| Viktoria Yakovleva(@Vakulina)  
 
 ## _Summary information_  
 - I have work experience in the banking sector.  
